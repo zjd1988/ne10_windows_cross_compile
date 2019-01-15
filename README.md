@@ -13,7 +13,8 @@
 
 （3）在源码第一级目录下，新建批处理文件，并按下图编辑批处理文件，其中使用的64位的交叉编译工具，也可以替换为32位的
 
-
+![compile_linux](https://github.com/zjd1988/ne10_windows_cross_compile/blob/master/compile_linux.jpg)
 
 
 （4）执行上面批处理脚本，出现下面的界面表示编译成功，就可以自己编写程序，使用优化后的接口了。
+![compile_result](https://github.com/zjd1988/ne10_windows_cross_compile/blob/master/compile_result.jpg)
