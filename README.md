@@ -1,0 +1,2 @@
+# ne10_windows_cross_compile
+记录下NE10开源库在windows下的交叉编译
